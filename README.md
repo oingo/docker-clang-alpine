@@ -2,4 +2,4 @@
 
 ### Base Docker Image
 
-* [alpine:3.8](https://hub.docker.com/_/alpine)
+* [alpine:3.9](https://hub.docker.com/_/alpine)
